@@ -21,6 +21,7 @@ BuildRequires:	cmake(Qt6Widgets)
 BuildRequires:	cmake(Qt6WebEngineWidgets)
 BuildRequires:	cmake(Qt6Xml)
 BuildRequires:	cmake(Qt6Test)
+BuildRequires:	cmake(Qt6LinguistTools)
 BuildRequires:	pkgconfig(libsasl2)
 BuildRequires:	qt6-qtwayland
 BuildRequires:	doxygen
