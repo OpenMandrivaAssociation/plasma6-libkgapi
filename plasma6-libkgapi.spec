@@ -2,7 +2,7 @@
 
 Summary:	Library to access various Google services via their public API
 Name:		plasma6-libkgapi
-Version:	24.01.80
+Version:	24.01.85
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/KDE
