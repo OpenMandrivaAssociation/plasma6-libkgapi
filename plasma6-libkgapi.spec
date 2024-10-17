@@ -9,7 +9,7 @@ Version:	24.08.2
 Release:	%{?git:0.%{git}.}1
 License:	GPLv2+
 Group:		Graphical desktop/KDE
-Url:		http://www.dvratil.cz/category/akonadi-google/
+Url:		https://www.dvratil.cz/category/akonadi-google/
 %if 0%{?git:1}
 Source0:	https://invent.kde.org/pim/libkgapi/-/archive/%{gitbranch}/libkgapi-%{gitbranchd}.tar.bz2#/libkgapi-%{git}.tar.bz2
 %else
