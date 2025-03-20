@@ -6,7 +6,7 @@
 Summary:	Library to access various Google services via their public API
 Name:		plasma6-libkgapi
 Version:	24.12.3
-Release:	%{?git:0.%{git}.}1
+Release:	%{?git:0.%{git}.}2
 License:	GPLv2+
 Group:		Graphical desktop/KDE
 Url:		https://www.dvratil.cz/category/akonadi-google/
